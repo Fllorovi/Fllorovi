@@ -73,19 +73,6 @@
 ---
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fllorovi&show_icons=true&theme=github_dark&hide_border=true&locale=ru" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fllorovi&layout=compact&theme=github_dark&hide_border=true&locale=ru" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fllorovi&theme=github-dark-blue&hide_border=true&locale=ru" />
-</p>
-
----
-
 ## 🌱 Сейчас изучаю и развиваю
 
 - Архитектуру современных приложений.
