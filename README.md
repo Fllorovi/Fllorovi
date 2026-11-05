@@ -21,7 +21,7 @@
 ### Языки программирования
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,sql" />
 </p>
 
 ### Frameworks & Libraries
