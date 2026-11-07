@@ -1,88 +1,42 @@
-# Привет! Я Fllorovi 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="Fllorovi">
+</p>
 
-### Разработчик | Web Development | Game Development
+<h2 align="center">Обо мне</h2>
 
-Занимаюсь разработкой приложений, изучаю новые технологии и превращаю идеи в работающие проекты.
-
----
-
-## 🧑‍💻 Обо мне
-
-- Интересуюсь разработкой программного обеспечения и архитектурой приложений.
-- Основные направления: Web Development и Game Development.
-- Разрабатываю собственные приложения и участвую в командных проектах.
-- Уделяю внимание интерфейсам, пользовательскому опыту и качеству реализации.
-- Постоянно изучаю новые инструменты и технологии.
+<p align="center">
+  Разработчик, увлечённый созданием программных продуктов.
+  <br>
+  Основные направления — веб-разработка и Game Development.
+  <br>
+  Интересуюсь архитектурой приложений, интерфейсами и новыми технологиями.
+</p>
 
 ---
 
-## 🛠️ Технологии и инструменты
+<h2 align="center">Языки программирования</h2>
 
-### Языки программирования
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,sql" />
 </p>
 
-### Frameworks & Libraries
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,supabase" />
-</p>
+<h2 align="center">Избранные проекты</h2>
 
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,git,github,vscode,visualstudio,androidstudio" />
-</p>
+| Проект | Описание |
+|:---|:---|
+| **Novagram** | Мессенджер с обменом сообщениями в реальном времени и поддержкой мультимедиа. |
+| **SaveTube** | Приложение для загрузки и обработки медиаконтента. |
+| **AtmosView** | Кроссплатформенное приложение для просмотра погоды. |
+| **Rootbound** | Проект в направлении разработки игр. |
 
 ---
 
-## 🚀 Избранные проекты
-
-### Novagram
-Персональный мессенджер с авторизацией, обменом сообщениями в реальном времени и поддержкой мультимедиа.
-
-**Стек:** React · TypeScript · Tailwind CSS · Supabase · Capacitor
-
-🔗 [Репозиторий](ССЫЛКА) · [Демо](https://novagram-omega.vercel.app/)
-
-### SaveTube
-Приложение для работы с медиаконтентом и его обработки.
-
-**Стек:** Next.js · TypeScript · FFmpeg · yt-dlp · Supabase
-
-🔗 [Репозиторий](ССЫЛКА)
-
-### AtmosView
-Кроссплатформенное приложение для просмотра погоды с современным интерфейсом.
-
-**Стек:** React · TypeScript · Vite · Tailwind CSS
-
-**Статус:** В разработке.
-
-🔗 [Репозиторий](ССЫЛКА)
-
-### Rootbound
-Проект в направлении Game Development.
-
-**Стек:** Unity · C#
-
-🔗 [Репозиторий](ССЫЛКА)
-
----
+<h2 align="center">GitHub Statistics</h2>
 
 
-## 🌱 Сейчас изучаю и развиваю
-
-- Архитектуру современных приложений.
-- Full-Stack Development.
-- Кроссплатформенную разработку.
-- Unity и Game Development.
-- UI/UX и визуальный дизайн.
-
----
 
 <p align="center">
-  Спасибо за посещение моего профиля!
+  <img src="https://streak-stats.demolab.com?user=Fllorovi&theme=transparent&hide_border=true&locale=ru" />
 </p>
